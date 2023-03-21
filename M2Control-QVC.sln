@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M2C-EwtService", "..\..\..\..\..\..\Repos\qvc-customer\M2C-EwtService\M2C-EwtService.csproj", "{A5A1D176-0497-4132-9753-2DA0135627A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M2C-PlayoutTemplate", "..\..\..\..\..\..\Repos\qvc-customer\M2C-PlayoutTemplate\M2C-PlayoutTemplate.csproj", "{B1E33BC4-F1C7-4032-ABCA-F22EF36CE5B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QVCLib", "..\..\..\..\..\..\Repos\qvc-customer\QVCLib\QVCLib.csproj", "{B6E59EFA-EFCA-49E1-AD07-E9E9134173DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5A1D176-0497-4132-9753-2DA0135627A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5A1D176-0497-4132-9753-2DA0135627A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5A1D176-0497-4132-9753-2DA0135627A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5A1D176-0497-4132-9753-2DA0135627A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1E33BC4-F1C7-4032-ABCA-F22EF36CE5B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1E33BC4-F1C7-4032-ABCA-F22EF36CE5B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1E33BC4-F1C7-4032-ABCA-F22EF36CE5B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1E33BC4-F1C7-4032-ABCA-F22EF36CE5B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6E59EFA-EFCA-49E1-AD07-E9E9134173DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6E59EFA-EFCA-49E1-AD07-E9E9134173DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6E59EFA-EFCA-49E1-AD07-E9E9134173DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6E59EFA-EFCA-49E1-AD07-E9E9134173DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98AFFC96-534B-47DA-A3AE-727C1BC2E179}
+	EndGlobalSection
+EndGlobal
